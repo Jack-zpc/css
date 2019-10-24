@@ -28,4 +28,10 @@ p.guarantee {
     background-image: url(images/background.gif);
     background-repeat: no-repeat;
     background-position: top left;
+    border-radius: 15px;
+    border-style:dashed;
+    border-color:white;
+}
+#FOTTER {
+  color: red;
 }
